@@ -1,0 +1,9 @@
+{ "PRODUCTS" : [
+  {"category": "Clothes", "price": "$49.99", "stocked": "true" ,"name": "Lee"},
+  {"category": "Clothes", "price": "$9.99", "stocked": "true", "name": "Global Desi"},
+  {"category": "Clothes", "price": "$29.99", "stocked": "false", "name": "Park Avenue"},
+  {"category": "Electronics", "price": "$99.99", "stocked": "true", "name": "LED"},
+  {"category": "Electronics", "price": "$399.99", "stocked": "false", "name": "iPhone 7"},
+  {"category": "Electronics", "price": "$199.99", "stocked": "true", "name": "Nexus 7"}
+]
+}
